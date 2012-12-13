@@ -1,0 +1,29 @@
+=begin
+This Example shows how to Add the contact details to the given signup form
+=end
+
+require_relative 'inc/bmexmlrpc'
+require_relative 'inc/config' #contains username & password
+
+BMEApi = BmeXmlRpc::API.new($username , $password , $apiURL)
+
+if $ok 
+	#Fetch the latest contact list, so we can retrieve the contact list ID.
+	result = BMEApi.listGetSignupForms(1, 1, "","")		
+	signupFormID =  result[0]['id']
+	
+	#Prepare the data to insert.	
+	contacts = 	{:email => 'sanket@____.com', :firstname => 'Sanket', :lastname => 'Sawant'}			
+	
+	result = BMEApi.listAddContactsForm(signupFormID,contacts)
+	
+	if $ok 
+		puts "Total Contacts: #{result}"
+	else
+		puts "Error Code: #{result.faultCode}"		
+		puts "Error Description: #{result.faultString}"
+	end 
+	
+	
+	
+end 

@@ -1,0 +1,24 @@
+=begin
+This Example shows how to send a test email
+=end
+
+require_relative 'inc/bmexmlrpc'
+require_relative 'inc/config' #contains username & password
+
+BMEApi = BmeXmlRpc::API.new($username , $password , $apiURL)
+
+if $ok
+	#Fetch the latest email list, so we can retrieve the email list ID.
+	result = BMEApi.emailGet("", "-1", 1, 5, "", "")		
+	emailID =  result[0]['id']
+	testEmail = 'test@___________.com'
+	
+	result = BMEApi.emailSendTest(emailID , testEmail)			
+	
+	if $ok 	
+		puts "Test Email Sent : #{result}"
+	else		
+		puts "Error Code: #{result.faultCode}"		
+		puts "Error Description: #{result.faultString}"
+	end 
+end 

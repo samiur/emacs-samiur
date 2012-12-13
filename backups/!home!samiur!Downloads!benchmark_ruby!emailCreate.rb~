@@ -1,0 +1,33 @@
+=begin
+This Example shows how to create a new Email
+=end
+
+require_relative 'inc/bmexmlrpc'
+require_relative 'inc/config' #contains username & password
+
+BMEApi = BmeXmlRpc::API.new($username , $password , $apiURL)
+
+if $ok
+	#Fetch the latest contact list, so we can retrieve the contact list ID.
+	result = BMEApi.listGet('', 1, 1, '', '')		
+	listID =  result[0]['id']
+	
+	emailDetails = Hash.new
+	emailDetails["fromName"] = 'Steve'
+	emailDetails["fromEmail"] = 'user1@____.com'
+	emailDetails["emailName"] = 'Sales Promo May 10'
+	emailDetails["replyEmail"] = 'feedback@____.com'
+	emailDetails["subject"] = 'New Products launch at our store'
+	emailDetails["templateContent"] = '<html><body> <b> Hello World </b> </body></html>'
+	emailDetails["webpageversion"] = 'true'
+	emailDetails["toListID"] = listID.to_i()
+	result = BMEApi.emailCreate(emailDetails)		
+	
+	
+	if $ok 	
+		puts "New Email ID: #{result}"
+	else		
+		puts "Error Code: #{result.faultCode}"		
+		puts "Error Description: #{result.faultString}"
+	end 
+end 

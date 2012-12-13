@@ -1,0 +1,31 @@
+=begin
+This Example shows how to Add the contact details to the given contact list.
+#Multiple contacts would be added if the details has more than one items.
+=end
+
+require_relative 'inc/config' #contains username & password
+require_relative 'inc/bmexmlrpc'
+
+BMEApi = BmeXmlRpc::API.new($username , $password , $apiURL)
+
+if $ok 
+	#Fetch the latest contact list, so we can retrieve the contact list ID.
+	result = BMEApi.listGet('', 1, 1, '', '')		
+	listID =  result[0]['id']
+	
+	#Prepare the data to insert.
+	contacts = [	
+			{:email => 'user1@__.com', :firstname => 'Peter', :lastname => 'Parker'},
+			{:email => 'user2@___.com', :firstname => 'Bruce', :lastname => 'Banner'}
+		  ]
+	
+	result = BMEApi.listAddContacts(listID,contacts)
+	
+	if $ok 
+		puts "Total Contacts: #{result}"
+	else
+		puts "Error Code: #{result.faultCode}"		
+		puts "Error Description: #{result.faultString}"
+	end 	
+	
+end 	

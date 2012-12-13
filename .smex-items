@@ -1,0 +1,27 @@
+
+;; ----- smex-history -----
+(
+ guru-mode
+ load-theme
+ package-install
+ whitespace-mode
+ make-directory
+ shell
+ package-refresh-contents
+)
+
+;; ----- smex-data -----
+(
+ (package-install . 8)
+ (nrepl-jack-in . 3)
+ (nrepl . 1)
+ (eshell . 1)
+ (eval-buffer . 2)
+ (package-refresh-contents . 1)
+ (shell . 2)
+ (load-theme . 14)
+ (clojure-jack-in . 1)
+ (make-directory . 1)
+ (whitespace-mode . 1)
+ (guru-mode . 2)
+)

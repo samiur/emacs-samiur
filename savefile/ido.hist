@@ -1,0 +1,84 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/home/samiur/Projects/google_codejam/src/" . "google_codejam/")
+ ("/home/samiur/Projects/" . "google_codejam/")
+ ("/home/samiur/" . ".emacs.d/")
+ ("/home/samiur/Downloads/" . "benchmark_ruby/")
+ ("/lib/" . "udev/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/home/samiur/.emacs.d/"
+ "/home/samiur/Projects/google_codejam/src/google_codejam/"
+ "/home/samiur/"
+ "/home/samiur/.emacs.d/themes/"
+ "/home/samiur/Projects/test_project/"
+ "/home/samiur/Downloads/benchmark_ruby/inc/"
+ "/home/samiur/Downloads/benchmark_ruby/"
+ "/lib/udev/rules.d/"
+ "/lib/udev/"
+ "/lib/udev/keymaps/force-release/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "core.clj"
+ ".emacs"
+ "zenburn-theme.el"
+ "project.clj"
+ "bmexmlrpc.rb"
+ "listCreate.rb"
+ "importSQLContacts.rb"
+ "listSearchContacts.rb"
+ "listGetCount.rb"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/home/samiur/.emacs.d/" (20680 49843) "personal/" "auto-save-list/" "prelude/" "./" "themes/" "elpa/" "places" "clojure-mode/" "session.10dcf8e32d3f81e83a135205667931474600000016270039" "snippets/" "url/" "var/" "init.el~" "init.el" "README.md" "../" "swank/" "savefile/" "session.107669f8cded2237eb135017214274022900000016590037" "el-get/" "eshell/" "clojure-mode.el" "utils/" "backups/" "paredit/" ".smex-items")
+
+ ("/home/samiur/.elmo/" (20632 9916) "./" "imap/" "cache/" "../" "queue" "flag/" "localdir/" "finfo")
+
+ ("/home/samiur/Projects/google_codejam/src/google_codejam/" (20680 47925) "./" "core.clj" "../")
+
+ ("/home/samiur/Projects/google_codejam/src/" (20680 47925) "./" "../" "google_codejam/")
+
+ ("/home/samiur/" (20680 48994) ".zlogin" "jobsuitors-blog/" "repl-port" ".adobe/" "Documents/" ".gconf/" ".dmrc" ".dbus/" ".bash_login" "./" "Templates/" ".gnome2/" ".pulse/" ".bashrc" ".elmo/" ".folders" ".purple/" ".gem/" "Pictures/" ".jline-clojure.main.history" "jobsuitors-wiki/" ".gvfs/" "Downloads/" ".heroku/" ".gtk-bookmarks" ".slime-history.eld" ".m2/" ".face" "Projects/" ".cache/" ".emacs.d.pre-prelude.tar" ".mozilla/" "tmp/" ".lein/" ".gphoto/" ".jline-reply.history" "jobsuitors-website/" ".bash_history" ".recentf" ".profile" ".config/" ".xsession-errors.old" ".macromedia/" "Videos/" ".ICEauthority" ".pulse-cookie" ".pki/" ".Xauthority" "emacs-prelude/" ".ssh/" ".mission-control/" ".gstreamer-0.10/" "Mail/" ".irb-history" "Public/" "Desktop/" "../" ".thunderbird/" "examples.desktop" ".ido.last" ".emacs.d/" ".bash_logout" ".netrc" ".rvm/" ".zshrc" ".xsession-errors" ".local/" "Music/" ".compiz/")
+
+ ("/home/samiur/emacs-prelude/" (20680 48733) "personal/" "prelude/" "./" "themes/" ".gitignore" "snippets/" "README.md" "../" "utils/" ".git/")
+
+ ("/home/samiur/.emacs.d/themes/" (20680 48203) "./" "zenburn-theme.el" "../")
+
+ ("/home/samiur/Projects/" (20680 47925) "./" "../" "google_codejam/")
+
+ ("/home/samiur/Projects/google_codejam/" (20680 48078) "test/" "./" "src/" ".gitignore" "doc/" "README.md" "../" "project.clj")
+
+ ("/home/samiur/Projects/test_project/" (20680 45721) "test/" "./" "src/" "lib/" ".gitignore" ".lein-deps-sum" "README" "classes/" "../" "project.clj")
+
+ ("/home/samiur/Projects/test_project/src/" (20680 45640) "./" "test_project/" "../")
+
+ ("/home/samiur/Projects/test_project/src/test_project/" (20680 45640) "./" "core.clj" "../")
+
+ ("/home/samiur/Downloads/benchmark_ruby/" (20631 5588) "listSearchContacts.rb" "listAddContacts.rb" "emailCopy.rb" "./" "listAddContactsForm.rb" ".#bmeapi_listGet.rb" "listGetCount.rb" "listGet.rb" "emailSendNow.rb" "inc/" "emailDelete.rb" "emailGet.rb" "emailCreate.rb" "emailSendTest.rb" "listCreate.rb" "emailSchedule.rb" "listDeleteContacts.rb" "../" "importSQLContacts.rb")
+
+ ("/home/samiur/Downloads/" (20630 48869) "bootstrap.zip" "ubuntu-12.04.1-desktop-amd64.iso" "buttons/" "synergy-1.4.10-Linux-x86_64.deb" "Sublime Text 2.0.1 x64.tar.bz2" "benchmark_ruby/" "./" "Dogtooth 2009 SUBBED LiMiTED 720p BluRay x264 NODLABS [GREEK].nzb" "buttons.zip" "inc/" "google-talkplugin_current_amd64.deb" "Sublime Text 2/" "bme-xmlrpc-ruby.zip" "README.txt" "22248-radiohead-ok-computer.jpg" "jquery-validation-1.10.0.zip" "temp_file-[White.Collar.S04E09.HDTV.x264-ASAP.mp4][180upload].xspf" "NZB-7455.zip" "NZB-6748.zip" "../" "temp_file-[White.Collar.S04E09.HDTV.x264-ASAP.mp4][180upload] (1).xspf" "bash-redirections-cheat-sheet.pdf" "Sublime Text 2.0.1 x64 (1).tar.bz2" "7 Helping Someone Recover from Psychosis.pdf" "bootstrap/" "temp_file-[White.Collar.S04E09.HDTV.x264-ASAP.mp4][180upload] (2).xspf")
+
+ ("/home/samiur/Downloads/benchmark_ruby/inc/" (20630 51582) "bmexmlrpc.rb" "./" "config.rb" "../")
+
+ ("/lib/udev/rules.d/" (20561 8815) "95-keyboard-force-release.rules" "95-upower-battery-recall-dell.rules" "70-printers.rules" "60-persistent-serial.rules" "77-mm-x22x-port-types.rules" "77-mm-platform-serial-whitelist.rules" "64-xorg-xkb.rules" "75-tty-description.rules" "90-alsa-ucm.rules" "40-gnupg.rules" "95-udev-late.rules" "60-persistent-storage.rules" "90-pulseaudio.rules" "./" "77-mm-longcheer-port-types.rules" "77-mm-simtech-port-types.rules" "78-graphics-card.rules" "85-usbmuxd.rules" "77-mm-qdl-device-blacklist.rules" "60-persistent-storage-dm.rules" "40-xdiagnose.rules" "40-libgphoto2-2.rules" "60-persistent-alsa.rules" "69-xserver-xorg-input-wacom.rules" "50-udev-default.rules" "97-bluetooth-hid2hci.rules" "60-persistent-v4l.rules" "95-upower-hid.rules" "77-mm-ericsson-mbm.rules" "85-hdparm.rules" "50-firmware.rules" "80-udisks.rules" "60-persistent-input.rules" "40-xserver-xorg-video-intel.rules" "40-inputattach.rules" "95-upower-battery-recall-lenovo.rules" "95-upower-battery-recall-gateway.rules" "69-xorg-vmmouse.rules" "40-ia64.rules" "61-gnome-bluetooth-rfkill.rules" "77-mm-nokia-port-types.rules" "60-cdrom_id.rules" "95-upower-wup.rules" "77-nm-olpc-mesh.rules" "77-mm-pcmcia-device-blacklist.rules" "40-hplip.rules" "55-dm.rules" "77-mm-usb-device-blacklist.rules" "77-mm-zte-port-types.rules" "75-persistent-net-generator.rules" "40-crda.rules" "90-libgpod.rules" "95-upower-battery-recall-fujitsu.rules" "70-udev-acl.rules" "90-alsa-restore.rules" "85-brltty.rules" "README" "40-libsane.rules" "85-regulatory.rules" "60-persistent-storage-tape.rules" "66-xorg-synaptics-quirks.rules" "40-usb_modeswitch.rules" "80-drivers.rules" "../" "69-cd-sensors.rules" "95-cd-devices.rules" "95-upower-battery-recall-ibm.rules" "80-udisks2.rules" "69-libmtp.rules" "95-keymap.rules" "85-hplj10xx.rules" "42-qemu-usb.rules" "61-accelerometer.rules" "85-keyboard-configuration.rules" "75-cd-aliases-generator.rules" "78-sound-card.rules" "40-usb-media-players.rules" "75-probe_mtd.rules" "75-net-description.rules" "60-pcmcia.rules" "95-upower-csr.rules" "40-ppc.rules" "95-upower-battery-recall-toshiba.rules" "80-mm-candidate.rules" "56-hpmud_support.rules")
+
+ ("/lib/" (20558 29119) "systemd/" "libply-boot-client.so.2.0.0" "libiptc.so.0" "udev/" "libnss_mdns.so.2" "firmware/" "hdparm/" "cpp" "libiptc.so.0.0.0" "libxtables.so.7.0.0" "security/" "libnss_mdns4.so.2" "./" "libnss_mdns6_minimal.so.2" "libxtables.so.7" "recovery-mode/" "terminfo/" "libnss_mdns4_minimal.so.2" "klibc-Tkk24JI7OqNvpAaCp9P-vVOe4tM.so" "libply.so.2" "libip4tc.so.0" "linux-sound-base/" "libply-splash-graphics.so.2.0.0" "plymouth/" "libply-splash-graphics.so.2" "libnewt.so.0.52" "crda/" "libnss_mdns_minimal.so.2" "ufw/" "libply-splash-core.so.2.0.0" "apparmor/" "libnewt.so.0.52.11" "resolvconf/" "libply-splash-core.so.2" "libply-boot-client.so.2" "libcryptsetup.so.4" "modules/" "lsb/" "xtables/" "libip6tc.so.0" "libnss_mdns6.so.2" "../" "libip4tc.so.0.0.0" "libply.so.2.0.0" "x86_64-linux-gnu/" "brltty/" "libcryptsetup.so.4.2.0" "libip6tc.so.0.0.0" "init/")
+
+ ("/lib/udev/" (20558 29108) "accelerometer" "udisks-lvm-pv-export" "hotplug.functions" "firmware" "v4l_id" "udisks-dm-export" "pcmcia-socket-startup" "console-setup-tty" "hdparm" "write_net_rules" "./" "udev-add-printer" "findkeyboards" "rule_generator.functions" "keymap" "udisks-part-id" "hid2hci" "devices/" "ipod-set-info" "scsi_id" "usb-db" "mtd_probe" "udev-configure-printer" "cdrom_id" "iphone-set-info" "udisks-probe-ata-smart" "mtp-probe" "rules.d/" "write_cd_rules" "ata_id" "collect" "keyboard-force-release.sh" "pcmcia-check-broken-cis" "../" "inputattach" "udisks-probe-sas-expander" "udev-acl" "bluez" "pci-db" "keymaps/" "usb_modeswitch")
+
+ ("/lib/udev/keymaps/force-release/" (20561 8737) "dell-touchpad" "samsung-other" "./" "hp-other" "common-volume-keys" "samsung-900x3c" "../" "dell-xps" "samsung-90x3a")
+
+ ("/lib/udev/keymaps/" (20561 8699) "onkyo" "fujitsu-amilo_pro_v3205" "acer-aspire_8930" "everex-xt5000" "medionnb-a555" "compaq-e_evo" "ibm-thinkpad-usb-keyboard-trackpoint" "hewlett-packard-tx2" "fujitsu-amilo_pro_edition_v3505" "samsung-other" "hewlett-packard-pavilion" "./" "medion-fid2060" "logitech-wave" "lenovo-ideapad" "fujitsu-esprimo_mobile_v5" "fujitsu-amilo_li_2732" "lenovo-thinkpad_x6_tablet" "lg-x110" "oqo-model2" "module-ibm" "hewlett-packard-compaq_elitebook" "hewlett-packard" "module-sony" "lenovo-thinkpad-usb-keyboard-trackpoint" "asus" "module-sony-vgn" "module-asus-w3j" "logitech-wave-cordless" "toshiba-satellite_a100" "samsung-sq1us" "hewlett-packard-presario-2100" "force-release/" "hewlett-packard-2510p_2530p" "fujitsu-esprimo_mobile_v6" "samsung-900x3c" "acer-aspire_5920g" "module-sony-old" "module-lenovo" "../" "olpc-xo" "lenovo-3000" "logitech-wave-pro-cordless" "dell-latitude-xt2" "toshiba-satellite_a110" "acer-aspire_5720" "acer-aspire_6920" "inventec-symphony_6.0_7.0" "lenovo-thinkpad_x200_tablet" "maxdata-pro_7000" "hewlett-packard-tablet" "genius-slimstar-320" "acer-travelmate_c300" "micro-star" "zepto-znote" "fujitsu-amilo_pa_2548" "toshiba-satellite_m30x" "acer" "samsung-sx20s" "dell" "fujitsu-amilo_si_1520")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t

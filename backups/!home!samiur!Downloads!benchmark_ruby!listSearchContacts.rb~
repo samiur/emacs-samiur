@@ -1,0 +1,22 @@
+=begin
+Get the contact lists in your account.
+=end
+
+require_relative 'inc/bmexmlrpc'
+require_relative 'inc/config' #contains username & password
+
+BMEApi = BmeXmlRpc::API.new($username , $password , $apiURL)
+
+if $ok
+	emailID = '________@______.com'
+	result = BMEApi.listSearchContacts(emailID)
+	if $ok 
+		puts "sequence \t id \t listname \n"	
+		result.each do|return_array|
+		  puts "#{return_array['sequence']} \t#{return_array['id']} \t#{return_array['listname']}\n"
+		end	
+	else
+		puts "Error Code: #{result.faultCode}"		
+		puts "Error Description: #{result.faultString}"
+	end 
+end 
