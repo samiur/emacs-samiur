@@ -88,6 +88,10 @@ ELPA (or MELPA).")
 (add-to-list 'load-path "~/.emacs.d/paredit")
 (require 'paredit)
 
+;; go-mode
+(add-to-list 'load-path "~/.emacs.d/go-mode")
+(require 'go-mode)
+
 (setq make-backup-files nil)
 (setq auto-save-default nil)
 (setq-default tab-width 2)
@@ -104,6 +108,13 @@ ELPA (or MELPA).")
 (column-number-mode t)
 (set-fringe-style -1)
 (tooltip-mode -1)
+
+;; Interactively Do Things (highly recommended, but not strictly required)
+(require 'ido)
+(ido-mode t)
+
+;; Rinari
+(require 'rinari)
 
 (defun ruby-mode-hook ()
   (autoload 'ruby-mode "ruby-mode" nil t)

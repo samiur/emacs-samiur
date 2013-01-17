@@ -1,7 +1,7 @@
 
 ;; ----- smex-history -----
 (
- guru-mode
+ eval-buffer
  load-theme
  package-install
  whitespace-mode
@@ -16,7 +16,7 @@
  (nrepl-jack-in . 3)
  (nrepl . 1)
  (eshell . 1)
- (eval-buffer . 2)
+ (eval-buffer . 3)
  (package-refresh-contents . 1)
  (shell . 2)
  (load-theme . 14)
