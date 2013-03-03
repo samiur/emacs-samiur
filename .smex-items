@@ -1,27 +1,53 @@
 
 ;; ----- smex-history -----
 (
- eval-buffer
- load-theme
+ package-list-packages
  package-install
- whitespace-mode
- make-directory
- shell
- package-refresh-contents
+ eval-expression
+ comment-or-uncomment-region
+ package-menu-mark-delete
+ eval-region
+ load-theme
 )
 
 ;; ----- smex-data -----
 (
- (package-install . 8)
- (nrepl-jack-in . 3)
- (nrepl . 1)
+ (package-install . 19)
+ (nrepl-jack-in . 22)
+ (nrepl . 2)
  (eshell . 1)
- (eval-buffer . 3)
- (package-refresh-contents . 1)
- (shell . 2)
- (load-theme . 14)
- (clojure-jack-in . 1)
- (make-directory . 1)
+ (eval-buffer . 7)
+ (package-refresh-contents . 2)
+ (shell . 4)
+ (load-theme . 32)
+ (clojure-jack-in . 4)
+ (make-directory . 2)
  (whitespace-mode . 1)
  (guru-mode . 2)
+ (ansi-term . 3)
+ (nrepl-interaction-mode . 3)
+ (nrepl-return . 1)
+ (nrepl-interrupt . 3)
+ (desktop-read . 2)
+ (mkdir . 1)
+ (goto-line . 1)
+ (nrepl-quit . 4)
+ (disable-paredit-mode . 1)
+ (eldoc-mode . 1)
+ (clojure-mode . 2)
+ (nrepl-eval-buffer . 1)
+ (paredit-kill . 1)
+ (open-rectangle . 1)
+ (rm-set-mark . 1)
+ (eval-region . 3)
+ (markdown-mode . 1)
+ (tabify . 1)
+ (rinari-launch . 1)
+ (rinari-web-server . 1)
+ (comment-or-uncomment-region . 4)
+ (el-get-install . 1)
+ (package-menu-mark-delete . 2)
+ (package-list-packages . 2)
+ (eval-expression . 1)
+ (el-get-remove . 1)
 )

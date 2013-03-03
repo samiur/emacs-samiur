@@ -2,82 +2,258 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/home/samiur/Projects/google_codejam/src/" . "google_codejam/")
- ("/home/samiur/Projects/" . "google_codejam/")
- ("/home/samiur/" . ".emacs.d/")
- ("/home/samiur/Downloads/" . "benchmark_ruby/")
- ("/lib/" . "udev/")
+ ("/home/samiur/personal/personal-website/app/" . "controllers/")
+ ("/home/samiur/personal/jobsuitors-website/config/" . "initializers/")
+ ("/home/samiur/personal/jobsuitors-website/app/views/" . "registrations/")
+ ("/home/samiur/personal/jobsuitors-website/app/" . "controllers/")
+ ("/home/samiur/personal/" . "personal-website/")
+ ("/home/samiur/ie.hera-fw/common/drivers/" . "USB/")
+ ("/home/samiur/ie.hera-fw/common/" . "drivers/")
+ ("/home/samiur/.emacs.d/" . "ecb-2.40/")
+ ("/home/samiur/hera_archive/core/app/drivers/" . "spi/")
+ ("/home/samiur/hera_archive/core/app/" . "drivers/")
+ ("/home/samiur/hera_archive/core/" . "app/")
+ ("/home/samiur/hera_archive/" . "core/")
+ ("/home/samiur/clojure/my-website/src/" . "my_website/")
+ ("/home/samiur/clojure/" . "my-website/")
+ ("/home/samiur/.lein/" . "self-installs/")
+ ("/home/" . "samiur/")
+ ("/home/samiur/ie.hera-fw/archive/" . "generic/")
+ ("/home/samiur/ie.hera-fw/core/app/control/" . "flash_partitions/")
+ ("/home/samiur/ie.hera-fw/core/app/drivers/" . "i2c/")
+ ("/home/samiur/ie.hera-fw/core/app/" . "drivers/")
+ ("/home/samiur/ie.hera-fw/core/" . "app/")
+ ("/home/samiur/ie.hera-fw/" . "algorithm/")
+ ("/home/samiur/" . "ie.hera-fw/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/home/samiur/.emacs.d/"
- "/home/samiur/Projects/google_codejam/src/google_codejam/"
+ "/home/samiur/personal/ember-devise-bootstrap/"
+ "/home/samiur/personal/octopress/source/_includes/custom/"
+ "/home/samiur/personal/octopress/"
+ "/home/samiur/personal/personal-website/config/"
+ "/home/samiur/personal/personal-website/"
+ "/home/samiur/personal/jobsuitors-website/app/views/registrations/"
+ "/home/samiur/personal/jobsuitors-website/app/controllers/"
+ "/home/samiur/personal/jobsuitors-website/app/views/linkedin/"
+ "/home/samiur/personal/jobsuitors-website/config/initializers/"
+ "/home/samiur/personal/jobsuitors-website/"
+ "/home/samiur/personal/jobsuitors-website/app/assets/stylesheets/"
+ "/home/samiur/personal/jobsuitors-website/app/models/"
+ "/home/samiur/personal/jobsuitors-website/app/views/layouts/"
+ "/home/samiur/personal/jobsuitors-website/config/"
+ "/home/samiur/personal/jobsuitors-website/app/views/users/"
  "/home/samiur/"
- "/home/samiur/.emacs.d/themes/"
- "/home/samiur/Projects/test_project/"
- "/home/samiur/Downloads/benchmark_ruby/inc/"
- "/home/samiur/Downloads/benchmark_ruby/"
- "/lib/udev/rules.d/"
- "/lib/udev/"
- "/lib/udev/keymaps/force-release/"
+ "/home/samiur/ie.hera-fw/common/drivers/I2C/"
+ "/home/samiur/ie.hera-fw/common/drivers/USB/"
+ "/home/samiur/ie.hera-fw/core/app/drivers/i2c/"
+ "/home/samiur/ie.hera-fw/core/app/control/cmd/"
+ "/home/samiur/ie.hera-fw/core/app/control/mfi/"
+ "/home/samiur/barry/tools/"
+ "/home/samiur/.emacs.d/"
+ "/home/samiur/.emacs.d/ecb-2.40/"
+ "/home/samiur/ie.hera-fw/core/app/"
+ "/home/samiur/ie.hera-utility/"
+ "/home/samiur/ie.hera-fw/core/app/control/flash_partitions/"
+ "/home/samiur/ie.hera-fw/algorithm/"
+ "/home/samiur/ie.hera-fw/core/app/control/"
+ "/home/samiur/ie.hera-fw/core/app/control/mem/"
+ "/home/samiur/ie.hera-fw/core/app/drivers/spi/"
+ "/home/samiur/hera_archive/core/app/control/cmd/"
+ "/home/samiur/ie.hera-fw/common/"
+ "/home/samiur/ie.hera-fw/core/app/control/serial/"
+ "/home/samiur/hera_archive/core/app/drivers/spi/"
+ "/home/samiur/ie.hera-fw/hal/"
+ "/home/samiur/hera_archive/core/app/drivers/adc/"
+ "/home/samiur/hera_archive/core/app/control/"
+ "/home/samiur/ie.hera-fw/archive/"
+ "/home/samiur/clojure/my-website/src/my_website/views/"
+ "/home/samiur/clojure/my-website/src/my_website/"
+ "/home/samiur/clojure/my-website/"
+ "/home/samiur/.lein/"
+ "/home/samiur/ie.hera-fw/core/app/board/"
+ "/home/samiur/scripts/"
+ "/home/samiur/ie.hera-fw/std/"
+ "/home/samiur/ie.hera-fw/"
+ "/home/samiur/ie.hera-fw/archive/generic/"
+ "/home/samiur/ie.hera-fw/archive/seq/"
+ "/home/samiur/ie.hera-fw/core/app/drivers/usb/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "init.el"
- "core.clj"
- ".emacs"
- "zenburn-theme.el"
- "project.clj"
- "bmexmlrpc.rb"
- "listCreate.rb"
- "importSQLContacts.rb"
- "listSearchContacts.rb"
- "listGetCount.rb"
+ "Gemfile"
+ "intro.html"
+ "config.ru"
+ "config.rb"
+ "routes.rb"
+ "edit.html.erb"
+ "reg2.html.erb"
+ "users_controller.rb"
+ "callback.html.erb"
+ "index.html.erb"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/home/samiur/.emacs.d/" (20680 49843) "personal/" "auto-save-list/" "prelude/" "./" "themes/" "elpa/" "places" "clojure-mode/" "session.10dcf8e32d3f81e83a135205667931474600000016270039" "snippets/" "url/" "var/" "init.el~" "init.el" "README.md" "../" "swank/" "savefile/" "session.107669f8cded2237eb135017214274022900000016590037" "el-get/" "eshell/" "clojure-mode.el" "utils/" "backups/" "paredit/" ".smex-items")
+ ("/home/samiur/personal/ember-devise-bootstrap/" (20677 8498) "lib/" ".git/" "MIT-LICENSE" "script/" "Gemfile.lock" "version" "README.rdoc" "app/" "./" "ember-devise-bootstrap.gemspec" "config/" "features/" ".gitignore" "../" "Rakefile" "test/" "Gemfile")
 
- ("/home/samiur/.elmo/" (20632 9916) "./" "imap/" "cache/" "../" "queue" "flag/" "localdir/" "finfo")
+ ("/home/samiur/personal/ember-devise-bootstrap/config/" (20677 8498) "cucumber.yml" "routes.rb" "./" "../")
 
- ("/home/samiur/Projects/google_codejam/src/google_codejam/" (20680 47925) "./" "core.clj" "../")
+ ("/home/samiur/personal/octopress/source/_includes/custom/" (20668 20443) "footer.html" "navigation.html" "header.html" "after_footer.html" "head.html" "./" "footer_widgets.html" "asides/" "category_feed.xml" "widgets.html" "intro.html" "../")
 
- ("/home/samiur/Projects/google_codejam/src/" (20680 47925) "./" "../" "google_codejam/")
+ ("/home/samiur/personal/octopress/source/_includes/" (20668 20443) "footer.html" "navigation.html" "article.html" "header.html" "after_footer.html" "archive_post.html" "head.html" "disqus.html" "./" "twitter_sharing.html" "custom/" "google_analytics.html" "google_plus_one.html" "asides/" "post/" "../" "facebook_like.html")
 
- ("/home/samiur/" (20680 48994) ".zlogin" "jobsuitors-blog/" "repl-port" ".adobe/" "Documents/" ".gconf/" ".dmrc" ".dbus/" ".bash_login" "./" "Templates/" ".gnome2/" ".pulse/" ".bashrc" ".elmo/" ".folders" ".purple/" ".gem/" "Pictures/" ".jline-clojure.main.history" "jobsuitors-wiki/" ".gvfs/" "Downloads/" ".heroku/" ".gtk-bookmarks" ".slime-history.eld" ".m2/" ".face" "Projects/" ".cache/" ".emacs.d.pre-prelude.tar" ".mozilla/" "tmp/" ".lein/" ".gphoto/" ".jline-reply.history" "jobsuitors-website/" ".bash_history" ".recentf" ".profile" ".config/" ".xsession-errors.old" ".macromedia/" "Videos/" ".ICEauthority" ".pulse-cookie" ".pki/" ".Xauthority" "emacs-prelude/" ".ssh/" ".mission-control/" ".gstreamer-0.10/" "Mail/" ".irb-history" "Public/" "Desktop/" "../" ".thunderbird/" "examples.desktop" ".ido.last" ".emacs.d/" ".bash_logout" ".netrc" ".rvm/" ".zshrc" ".xsession-errors" ".local/" "Music/" ".compiz/")
+ ("/home/samiur/personal/octopress/source/" (20668 19668) "humans.txt" "index.html" "crossdomain.xml" "_includes/" "./" "favicon.png" "_layouts/" "blog/" "robots.txt" "atom.xml" "assets/" "../" "javascripts/" "stylesheets/" "_posts/" "images/")
 
- ("/home/samiur/emacs-prelude/" (20680 48733) "personal/" "prelude/" "./" "themes/" ".gitignore" "snippets/" "README.md" "../" "utils/" ".git/")
+ ("/home/samiur/personal/octopress/" (20675 51786) ".git/" ".sass-cache/" "sass/" "Gemfile.lock" "source/" "_config.yml" "./" "CHANGELOG.markdown" "config.rb" ".rbenv-version" "README.markdown" "config.ru" "public/" ".pygments-cache/" ".powrc" ".gitignore" "../" "Rakefile" "Gemfile" ".rvmrc" ".slugignore" "plugins/" ".themes/")
 
- ("/home/samiur/.emacs.d/themes/" (20680 48203) "./" "zenburn-theme.el" "../")
+ ("/home/samiur/personal/personal-website/config/" (20657 28521) "routes.rb" "locales/" "./" "mongoid.yml" "environment.rb" "boot.rb" "initializers/" "application.rb" "../" "environments/")
 
- ("/home/samiur/Projects/" (20680 47925) "./" "../" "google_codejam/")
+ ("/home/samiur/personal/personal-website/app/controllers/" (20655 60891) "./" "application_controller.rb" "../")
 
- ("/home/samiur/Projects/google_codejam/" (20680 48078) "test/" "./" "src/" ".gitignore" "doc/" "README.md" "../" "project.clj")
+ ("/home/samiur/personal/personal-website/app/" (20655 60891) "models/" "controllers/" "./" "helpers/" "assets/" "../" "views/" "mailers/")
 
- ("/home/samiur/Projects/test_project/" (20680 45721) "test/" "./" "src/" "lib/" ".gitignore" ".lein-deps-sum" "README" "classes/" "../" "project.clj")
+ ("/home/samiur/personal/personal-website/" (20657 28298) "lib/" "vendor/" "script/" "Gemfile.lock" "README.rdoc" "app/" "./" "db/" "config/" "log/" "config.ru" "public/" "tmp/" ".gitignore" "../" "Rakefile" "Gemfile" "doc/")
 
- ("/home/samiur/Projects/test_project/src/" (20680 45640) "./" "test_project/" "../")
+ ("/home/samiur/personal/" (20655 60891) "battrick_autobid.js" "./" "personal-website/" "jobsuitors-website/" "samiur-blog/" "../" "linkedin/")
 
- ("/home/samiur/Projects/test_project/src/test_project/" (20680 45640) "./" "core.clj" "../")
+ ("/home/samiur/" (20662 17988) ".face" ".ido.last" ".cache/" ".config/" "samiur_key.txt" ".icons/" ".lein/" "Pictures/" "core" ".bash_history" "Downloads/" "stlink/" ".gvfs/" ".compiz/" ".dmrc" ".m2/" "VMs/" ".dbus/" ".gnome2/" "samiur/" "personal/" ".gtk-bookmarks" ".srecode/" ".irb-history" "Desktop/" "diskimage/" ".rvm/" ".pulse-cookie" ".gem/" "barry/" ".gphoto/" "./" ".gitconfig" ".bash_logout" "Public/" ".jline-reply.history" "tftpboot/" ".ssh/" "arm-cs-tools/" ".vmware/" ".adobe/" "test.cap" ".nrepl-history.eld" ".java/" ".remmina/" ".purple/" ".local/" ".bash_profile" ".macromedia/" ".gconf/" ".ICEauthority" "repl-port" ".Skype/" ".gstreamer-0.10/" ".matplotlib/" "Ubuntu 64-bit.vmdk" ".pki/" "ultra-finance/" ".git-credential-cache/" ".mozilla/" ".mission-control/" "Videos/" ".freerdp/" "bin/" "minicom.log" ".bashrc" "ie.hera-utility/" ".Xauthority" "scripts/" ".PlayOnLinux/" ".semanticdb/" ".wine/" ".pulse/" ".gksu.lock" ".emacs.d/" "Documents/" ".xsession-errors" "ie.hera-fw/" ".couchpotato/" ".ddd/" ".gitk" "Salae Exports/" "jsnyder-arm-eabi-toolchain-e3f4013/" "../" "PlayOnLinux's virtual drives/" "CouchPotatoServer/" ".apport-ignore.xml" ".profile" ".TotalPhase/" "Templates/" "examples.desktop" "clojure/" ".xsession-errors.old" ".thunderbird/" ".zshenv" ".gnome2_private/" "hera_archive/" ".zprofile" ".recentf" "Music/" "agnes_statement.txt")
 
- ("/home/samiur/Downloads/benchmark_ruby/" (20631 5588) "listSearchContacts.rb" "listAddContacts.rb" "emailCopy.rb" "./" "listAddContactsForm.rb" ".#bmeapi_listGet.rb" "listGetCount.rb" "listGet.rb" "emailSendNow.rb" "inc/" "emailDelete.rb" "emailGet.rb" "emailCreate.rb" "emailSendTest.rb" "listCreate.rb" "emailSchedule.rb" "listDeleteContacts.rb" "../" "importSQLContacts.rb")
+ ("/home/samiur/personal/jobsuitors-website/app/controllers/" (20653 35429) "registrations_controller.rb" "splash_controller.rb" "./" "application_controller.rb" "home_controller.rb" "../" "linkedin_controller.rb" "users_controller.rb")
 
- ("/home/samiur/Downloads/" (20630 48869) "bootstrap.zip" "ubuntu-12.04.1-desktop-amd64.iso" "buttons/" "synergy-1.4.10-Linux-x86_64.deb" "Sublime Text 2.0.1 x64.tar.bz2" "benchmark_ruby/" "./" "Dogtooth 2009 SUBBED LiMiTED 720p BluRay x264 NODLABS [GREEK].nzb" "buttons.zip" "inc/" "google-talkplugin_current_amd64.deb" "Sublime Text 2/" "bme-xmlrpc-ruby.zip" "README.txt" "22248-radiohead-ok-computer.jpg" "jquery-validation-1.10.0.zip" "temp_file-[White.Collar.S04E09.HDTV.x264-ASAP.mp4][180upload].xspf" "NZB-7455.zip" "NZB-6748.zip" "../" "temp_file-[White.Collar.S04E09.HDTV.x264-ASAP.mp4][180upload] (1).xspf" "bash-redirections-cheat-sheet.pdf" "Sublime Text 2.0.1 x64 (1).tar.bz2" "7 Helping Someone Recover from Psychosis.pdf" "bootstrap/" "temp_file-[White.Collar.S04E09.HDTV.x264-ASAP.mp4][180upload] (2).xspf")
+ ("/home/samiur/personal/jobsuitors-website/app/views/registrations/" (20652 35999) "new.html.erb" "./" "linkedin.html.erb" "edit.html.erb" "reg2.html.erb" "../" ".#linkedin.html.erb")
 
- ("/home/samiur/Downloads/benchmark_ruby/inc/" (20630 51582) "bmexmlrpc.rb" "./" "config.rb" "../")
+ ("/home/samiur/personal/jobsuitors-website/config/" (20652 36089) "routes.rb" "locales/" "./" "mongoid.yml" "environment.rb" "boot.rb" "initializers/" "linkedin.yml" "application.rb" "../" "environments/")
 
- ("/lib/udev/rules.d/" (20561 8815) "95-keyboard-force-release.rules" "95-upower-battery-recall-dell.rules" "70-printers.rules" "60-persistent-serial.rules" "77-mm-x22x-port-types.rules" "77-mm-platform-serial-whitelist.rules" "64-xorg-xkb.rules" "75-tty-description.rules" "90-alsa-ucm.rules" "40-gnupg.rules" "95-udev-late.rules" "60-persistent-storage.rules" "90-pulseaudio.rules" "./" "77-mm-longcheer-port-types.rules" "77-mm-simtech-port-types.rules" "78-graphics-card.rules" "85-usbmuxd.rules" "77-mm-qdl-device-blacklist.rules" "60-persistent-storage-dm.rules" "40-xdiagnose.rules" "40-libgphoto2-2.rules" "60-persistent-alsa.rules" "69-xserver-xorg-input-wacom.rules" "50-udev-default.rules" "97-bluetooth-hid2hci.rules" "60-persistent-v4l.rules" "95-upower-hid.rules" "77-mm-ericsson-mbm.rules" "85-hdparm.rules" "50-firmware.rules" "80-udisks.rules" "60-persistent-input.rules" "40-xserver-xorg-video-intel.rules" "40-inputattach.rules" "95-upower-battery-recall-lenovo.rules" "95-upower-battery-recall-gateway.rules" "69-xorg-vmmouse.rules" "40-ia64.rules" "61-gnome-bluetooth-rfkill.rules" "77-mm-nokia-port-types.rules" "60-cdrom_id.rules" "95-upower-wup.rules" "77-nm-olpc-mesh.rules" "77-mm-pcmcia-device-blacklist.rules" "40-hplip.rules" "55-dm.rules" "77-mm-usb-device-blacklist.rules" "77-mm-zte-port-types.rules" "75-persistent-net-generator.rules" "40-crda.rules" "90-libgpod.rules" "95-upower-battery-recall-fujitsu.rules" "70-udev-acl.rules" "90-alsa-restore.rules" "85-brltty.rules" "README" "40-libsane.rules" "85-regulatory.rules" "60-persistent-storage-tape.rules" "66-xorg-synaptics-quirks.rules" "40-usb_modeswitch.rules" "80-drivers.rules" "../" "69-cd-sensors.rules" "95-cd-devices.rules" "95-upower-battery-recall-ibm.rules" "80-udisks2.rules" "69-libmtp.rules" "95-keymap.rules" "85-hplj10xx.rules" "42-qemu-usb.rules" "61-accelerometer.rules" "85-keyboard-configuration.rules" "75-cd-aliases-generator.rules" "78-sound-card.rules" "40-usb-media-players.rules" "75-probe_mtd.rules" "75-net-description.rules" "60-pcmcia.rules" "95-upower-csr.rules" "40-ppc.rules" "95-upower-battery-recall-toshiba.rules" "80-mm-candidate.rules" "56-hpmud_support.rules")
+ ("/home/samiur/personal/jobsuitors-website/" (20652 29886) "lib/" ".git/" ".emacs.desktop" "vendor/" "script/" "Gemfile.lock" "README.rdoc" "app/" "./" "db/" "config/" "log/" "spec/" "config.ru" "public/" "features/" "README.md" "tmp/" ".emacs.desktop.lock" ".gitignore" "../" "Rakefile" "Gemfile" "doc/")
 
- ("/lib/" (20558 29119) "systemd/" "libply-boot-client.so.2.0.0" "libiptc.so.0" "udev/" "libnss_mdns.so.2" "firmware/" "hdparm/" "cpp" "libiptc.so.0.0.0" "libxtables.so.7.0.0" "security/" "libnss_mdns4.so.2" "./" "libnss_mdns6_minimal.so.2" "libxtables.so.7" "recovery-mode/" "terminfo/" "libnss_mdns4_minimal.so.2" "klibc-Tkk24JI7OqNvpAaCp9P-vVOe4tM.so" "libply.so.2" "libip4tc.so.0" "linux-sound-base/" "libply-splash-graphics.so.2.0.0" "plymouth/" "libply-splash-graphics.so.2" "libnewt.so.0.52" "crda/" "libnss_mdns_minimal.so.2" "ufw/" "libply-splash-core.so.2.0.0" "apparmor/" "libnewt.so.0.52.11" "resolvconf/" "libply-splash-core.so.2" "libply-boot-client.so.2" "libcryptsetup.so.4" "modules/" "lsb/" "xtables/" "libip6tc.so.0" "libnss_mdns6.so.2" "../" "libip4tc.so.0.0.0" "libply.so.2.0.0" "x86_64-linux-gnu/" "brltty/" "libcryptsetup.so.4.2.0" "libip6tc.so.0.0.0" "init/")
+ ("/home/samiur/personal/jobsuitors-website/app/views/linkedin/" (20652 35518) "callback.html.erb" "./" "../" "index.html.erb")
 
- ("/lib/udev/" (20558 29108) "accelerometer" "udisks-lvm-pv-export" "hotplug.functions" "firmware" "v4l_id" "udisks-dm-export" "pcmcia-socket-startup" "console-setup-tty" "hdparm" "write_net_rules" "./" "udev-add-printer" "findkeyboards" "rule_generator.functions" "keymap" "udisks-part-id" "hid2hci" "devices/" "ipod-set-info" "scsi_id" "usb-db" "mtd_probe" "udev-configure-printer" "cdrom_id" "iphone-set-info" "udisks-probe-ata-smart" "mtp-probe" "rules.d/" "write_cd_rules" "ata_id" "collect" "keyboard-force-release.sh" "pcmcia-check-broken-cis" "../" "inputattach" "udisks-probe-sas-expander" "udev-acl" "bluez" "pci-db" "keymaps/" "usb_modeswitch")
+ ("/home/samiur/personal/jobsuitors-website/config/initializers/" (20649 19222) "inflections.rb" "api_initializers.rb" "generators.rb" "devise.rb" "backtrace_silencers.rb" "session_store.rb" "./" "../" "mime_types.rb" "secret_token.rb" "wrap_parameters.rb")
 
- ("/lib/udev/keymaps/force-release/" (20561 8737) "dell-touchpad" "samsung-other" "./" "hp-other" "common-volume-keys" "samsung-900x3c" "../" "dell-xps" "samsung-90x3a")
+ ("/home/samiur/personal/jobsuitors-website/app/assets/" (20632 47202) "./" "../" "javascripts/" "stylesheets/" "images/")
 
- ("/lib/udev/keymaps/" (20561 8699) "onkyo" "fujitsu-amilo_pro_v3205" "acer-aspire_8930" "everex-xt5000" "medionnb-a555" "compaq-e_evo" "ibm-thinkpad-usb-keyboard-trackpoint" "hewlett-packard-tx2" "fujitsu-amilo_pro_edition_v3505" "samsung-other" "hewlett-packard-pavilion" "./" "medion-fid2060" "logitech-wave" "lenovo-ideapad" "fujitsu-esprimo_mobile_v5" "fujitsu-amilo_li_2732" "lenovo-thinkpad_x6_tablet" "lg-x110" "oqo-model2" "module-ibm" "hewlett-packard-compaq_elitebook" "hewlett-packard" "module-sony" "lenovo-thinkpad-usb-keyboard-trackpoint" "asus" "module-sony-vgn" "module-asus-w3j" "logitech-wave-cordless" "toshiba-satellite_a100" "samsung-sq1us" "hewlett-packard-presario-2100" "force-release/" "hewlett-packard-2510p_2530p" "fujitsu-esprimo_mobile_v6" "samsung-900x3c" "acer-aspire_5920g" "module-sony-old" "module-lenovo" "../" "olpc-xo" "lenovo-3000" "logitech-wave-pro-cordless" "dell-latitude-xt2" "toshiba-satellite_a110" "acer-aspire_5720" "acer-aspire_6920" "inventec-symphony_6.0_7.0" "lenovo-thinkpad_x200_tablet" "maxdata-pro_7000" "hewlett-packard-tablet" "genius-slimstar-320" "acer-travelmate_c300" "micro-star" "zepto-znote" "fujitsu-amilo_pa_2548" "toshiba-satellite_m30x" "acer" "samsung-sx20s" "dell" "fujitsu-amilo_si_1520")
+ ("/home/samiur/personal/jobsuitors-website/app/assets/stylesheets/" (20652 28294) "./" "application.css" "../" "splash.css.scss")
+
+ ("/home/samiur/personal/jobsuitors-website/app/models/" (20652 8937) "skill.rb" "company.rb" ".gitkeep" "./" "ability.rb" "country.rb" "user.rb" "position.rb" "../" "location.rb")
+
+ ("/home/samiur/personal/jobsuitors-website/app/views/layouts/" (20652 24240) "application.html.erb" "./" "../")
+
+ ("/home/samiur/personal/jobsuitors-website/app/views/users/" (20649 19222) "show.html.erb" "./" "../" "index.html.erb")
+
+ ("/home/samiur/personal/jobsuitors-website/app/views/" (20649 19222) "splash/" "home/" "./" "layouts/" "devise/" "../" "linkedin/" "users/" "registrations/")
+
+ ("/home/samiur/personal/jobsuitors-website/app/" (20649 42749) "models/" "controllers/" "./" "helpers/" "assets/" "../" "views/" "enums/" "mailers/")
+
+ ("/home/samiur/ie.hera-fw/common/drivers/I2C/" (20644 4766) "i2c_base.h" "i2c_base.cpp" "./" "../")
+
+ ("/home/samiur/ie.hera-fw/common/drivers/USB/" (20644 4766) "usb_string.cpp" "usb_class_hid.h" "usb_utils.h" "usb_host_constants.h" "usb_class_hid.cpp" "usb_device.h" "./" "usb_string.h" "usb_class.h" "usb_host_base.cpp" "usb_device.cpp" "usb_otg.h" "usb_otg.cpp" "../" "usb_otg_constants.h" "usb_host_base.h" ".#usb_host_base.cpp")
+
+ ("/home/samiur/ie.hera-fw/common/drivers/" (20644 4766) "ADC/" "./" "TIM/" "UART/" "SPI/" "../" "DMA/" "I2C/" "HW/" "USB/")
+
+ ("/home/samiur/ie.hera-fw/common/" (20644 8575) "micro/" "protothreads.cpp" "attributes.h" "io_vector.h" "cobs.h" "./" "drivers/" "hton.h" "protothreads.h" "crc.o" "servicer.cpp" "servicer.h" "hton.cpp" "pack.h" "cobs.cpp" "circular_queue.h" "../" "standard.h" "crc.h" "crc.cpp" "pack.cpp")
+
+ ("/home/samiur/ie.hera-fw/" (20644 8182) "algorithm/" ".git/" "core/" "hal/" "Makefile" "tools/" "build/" "./" "std/" "README" "config/" "Doxyfile" "cscope.out" "scripts/" "documentation/" ".gitignore" "../" "test/" "archive/" "common/")
+
+ ("/home/samiur/ie.hera-fw/core/app/drivers/i2c/" (20644 4766) "i2c_MFi_bus.cpp" "i2c_cartridge_bus.cpp" "./" "i2c_cartridge_bus.h" "../" "i2c_MFi_bus.h")
+
+ ("/home/samiur/ie.hera-fw/core/app/drivers/" (20644 3726) "dma/" "pwm/" "./" "spi/" "usb/" "uarts/" "timers/" "../" "eeprom/" "i2c/" "adc/")
+
+ ("/home/samiur/ie.hera-fw/core/app/control/cmd/" (20644 9407) "console_command_handler.cpp" "binary_command_handler.cpp" "./" "repl-port" "binary_command_handler.h" "command_opcode.h" "../" "console_command_handler.h")
+
+ ("/home/samiur/ie.hera-fw/core/app/" (20644 4766) "app.lds.S" "Makefile" "print.h" "build/" "hera_string.h" "hera_string.cpp" "./" "main.cpp" "drivers/" "entry.c" "print.cpp" "board/" "Version" "control/" "../" "defined_strings.h")
+
+ ("/home/samiur/ie.hera-fw/core/app/control/mfi/" (20644 8182) "./" "mfi.h" "../" "mfi.cpp")
+
+ ("/home/samiur/ie.hera-fw/core/app/control/" (20644 4766) "settings_controller.h" "stack_controller.cpp" "cmd/" "valve_controller.h" "stack_controller.h" "serial/" "power_controller.h" "fan_controller.h" "led_controller.cpp" "mfi/" "USB_controller.h" "console_controller.cpp" "service_controller.h" "watchdog_controller.h" "cartridge_controller.cpp" "./" "button_controller.h" "memory_controller.h" "fan_controller.cpp" "service_controller.cpp" "e34_auth_controller.cpp" "valve_controller.cpp" "power_controller.cpp" "cartridge_controller.h" "watchdog_controller.cpp" "led_controller.h" "../" "settings_controller.cpp" "watchdog/" "e34_auth_controller.h" "console_controller.h" "button_controller.cpp" "mem/" "memory_controller.cpp" "USB_controller.cpp" "flash_partitions/")
+
+ ("/home/samiur/barry/tools/" (20641 24656) "platform.h" "bjdwp.cc" "boostwrap.h" "bktrans.cc" "bwatch.cc" "bcharge.cc" "bdptest.cc" "brawchannel.cc" "brecsum.h" "util.h" "pppob.cc" "boostwrap.cc" "upldif.cc" "gettext.h" "./" "brimtrans.cc" "Makefile.am" "bfuse.cc" "bio.cc" "btarcmp.cc" "bjavaloader.cc" "bs11nread.cc" "breset.cc" "balxparse.cc" "bjvmdebug.cc" "btranslate.cc" "breset_libusb_1_0.cc" "btool.cc" "btardump.cc" "../" "brecsum.cc" "util.cc" "i18n.h" "barrygetopt.h" "bcharge_libusb_1_0.cc" "bidentify.cc")
+
+ ("/home/samiur/.emacs.d/" (20637 34709) "el-get/" "ecb-2.40/" "auto-save-list/" "init.el.before_ecb_2.40" ".smex-items" "session.1018ddf033ca1e0cb2134990312026698300000022870035" "session.1017c0cfd13c167df1135109990256011200000022290036" "session.109aabedb2da639f8413505260857711400000082070037" "./" "init.el" "cedet/" "repl-port" "init.el~" "session.10417efa1615bcef13134989340669056700000019510038" "places" "session.108802d74ec81d38b2135111774487829400000022360039" "backups/" "../" "eshell/" "elpa/" "url/")
+
+ ("/home/samiur/.emacs.d/ecb-2.40/info-help/" (18958 49297) "ecb.info-1" "ecb.info-3" "./" "ecb.info-2" "../" "ecb.info")
+
+ ("/home/samiur/.emacs.d/ecb-2.40/" (18958 49297) "silentcomp.el" "ecb-mode-line.el" "ecb-autoloads.el" "ecb-face.el" "ecb-create-layout.el" "ecb-compatibility.el" "Makefile" "ecb-compilation.el" "ecb-winman-support.el" "ecb-file-browser.el" "ecb-symboldef.el" "ecb-navigate.el" "ecb-images/" "ecb-advice-test.el" "html-help/" "ecb-util.el" "ecb-autogen.el" "ecb-method-browser.el" "ecb-makedef.mk" "./" "ecb-tod.el" "ecb-speedbar.el" "ecb-help.el" "tree-buffer.el" "README" "ecb-eshell.el" "ecb-examples.el" "ecb-layout.el" "ecb-cycle.el" "NEWS" "RELEASE_NOTES" "ecb-layout-defs.el" "ecb-jde.el" "../" "ecb-upgrade.el" "info-help/" "make.bat" "ecb.texi" "ecb-analyse.el" "ecb-common-browser.el" "ecb.el" "ecb-cedet-wrapper.el")
+
+ ("/home/samiur/barry/" (20637 24257) "src/" "desktop/" "examples/" "rpm/" ".git/" "bash/" "libbarrydp-18.pc.in" "hal/" "maintainer/" "ChangeLog" "tools/" "logo/" "menu/" "udev/" "AUTHORS" "opensync-plugin-0.4x/" "config.rpath" "opensync-plugin/" "gui/" "libbarrysync-18.pc.in" "libbarryjdwp-18.pc.in" "./" "modprobe/" "Makefile.am" "libbarry-18.pc.in" "data/" "m4/" "KnownBugs" "README" "debian/" "COPYING" "Doxyfile" "android/" "buildgen.sh" "usbmon-6/" "contrib/" "libbarryalx-18.pc.in" "NEWS" "libbarrybackup-18.pc.in" "hotplug/" ".gitignore" "../" "man/" "test/" "ppp/" "po/" "TODO" "configure.ac" "doc/" "zsh/")
+
+ ("/home/samiur/ie.hera-utility/" (20633 44293) "test_error_dump.out" "cobs.o" ".git/" "#command.cpp#" "Makefile" "heratool_0_5_1" "cycle_perf_part3.out" "part.out" "attributes.h" "perf_part.out" "cycle_perf_part4.out" "os-windows.h" "new_error.out" "test_cycle.out" "perf.out" ".deps/" "pre_cycle.out" "heratool-0.2.0.exe" "heratool" "test_dump.out" "test.out" "cycle_perf_part1.out" "main.o" "error_part.out" "command.cpp" "cobs.h" "./" "heratool_0_5_1.exe" "README.txt" "main.cpp" "os-windows.cpp" "hton.h" "hton.cpp" "command.h" "part_cycle.out" "new_test.out" "command.o" "heratool-0.3.0.exe" "command_opcode.h" "pack.h" "error.out" "os-posix.cpp" "pack.o" "os-posix.o" "Version" "os-posix.h" "cobs.cpp" ".gitignore" "../" "test/" "post_cycle.out" "test_cycle_file.out" "pack.cpp" "zero.bin" "cycle_perf_part.out" "hton.o")
+
+ ("/home/samiur/ie.hera-fw/core/app/control/flash_partitions/" (20632 22775) ".#performance_partition.cpp" "settings_partition.cpp" "./" "flash_partition.cpp" "settings_partition.h" "performance_partition.h" "error_partition.h" "error_partition.cpp" "performance_partition.cpp" "flash_partition.h" "../")
+
+ ("/home/samiur/ie.hera-fw/algorithm/" (20632 20814) ".#control_algorithm.cpp" "control_algorithm_config.h" "control_algorithm.cpp" "algorithm_base.h" "control_algorithm.h" "./" ".gitignore" "../")
+
+ ("/home/samiur/Downloads/" (20627 3805) "concordance_information.pdf" "paper.pdf" "7 Helping Someone Recover from Psychosis.pdf" "IE_Hera_Tools_0_4 (1).pdf" "lein" "libdlo-0.1.2.tar.gz" "HP_LaserJet_5000_Series.ppd" "gcc-code-assist-0.1-4.4.4.tar.bz2" "cedet-bzr/" "VMware-server-2.0.2-203138.x86_64.tar.gz" "gccsense-0.1.tar.bz2" "SikderRahman.pdf" "restufftodesign.zip" "cedet_snapshot-rev_8112.tar.gz" "IE_Hera_Tools_0_4.pdf" "29051223.jpg" "vmware-server-distrib/" "ies4linux-2.99.0.1/" "Resume - Jim Kjelland - Staff Financial Analyst.doc" "OnlineGRApplAnnouncstudents.pdf" "bibtex.pdf" "synapse_ca.cer" "CogRadioPaper.pdf" "zainabcag.pdf" "2012WSO_B.pdf" "google-talkplugin_current_amd64.deb" "ies4linux-latest.tar.gz" "jsnyder-arm-eabi-toolchain-v2011.09-69-17-ge3f4013.zip" "./" "VMware-Player-5.0.0-812388.x86_64 (1).txt" "Logic 1.1.15 (64-bit).zip" "Mac 1.7 beta 2 release.zip" "GPSjq2rx0kive8OTvFEUzw2.jpg" "IE_Hera_Tools_2_0.pdf" "SCCC Division C results_2012.pdf" "Michael Shriver Resume.pdf" "Your E-Tickets.pdf" "samiurra (1).jpg" "IE HERA NFF 07 SERIAL FLASH.pdf" "JacobGulotta.pdf" "Document1.pdf" "stm32_st-link_utility.zip" "backofbill.pdf" "concordance_information (1).pdf" "2012WSO_C.pdf" "VMware-Player-5.0.0-812388.x86_64.bundle" "enable1.txt~" "PWA Time Entry Directions.pdf" "CD00262073.pdf" "samiurra.jpg" "minirc.dfl" "HurricaneRecoveryMapOct312012.pdf" "subsonic-4.7.deb" "Logic 1.1.15 (64-bit)/" "../" "VMware-mount-5.5.0-18463.exe" "CogRadioPaper.tex" "gcc-code-assist-0.1-4.4.4/" "button_date.gif" "JSF-AV-rules.pdf" "29051279.jpg" "W25X05CL_10CL_20CL.pdf" "enable1.txt" "bOsCd.gif" "libdlo-0.1.2/" "macfanctld/")
+
+ ("/home/samiur/Downloads/cedet-bzr/" (20627 3805) "trunk/" "./" "../")
+
+ ("/home/samiur/Downloads/cedet-bzr/trunk/" (20155 57888) ".ede-ignore" "gettodos.sh" "Makefile" "USING_CEDET_FROM_CVS" "cogre/" "testdist.sh" "speedbar/" "./" "testprojects/" "cedet-ediff.el" "srecode/" "semantic/" "INSTALL" "USING_CEDET_FROM_BZR" "contrib/" ".cvsignore" ".bzrignore" "quickpeek/" "tests/" "eieio/" "../" "Makefile.wwwinfo" "cedet-update-changelog.el" "ede/" "cedet-build.el" "PRERELEASE_CHECKLIST" "common/" "cedet-update-version.el")
+
+ ("/home/samiur/Downloads/cedet-bzr/trunk/common/" (20627 4133) "working.elc" "fame.el" "cedet-global.elc" "cedet-java.elc" "cedet-m3.el" "fame.elc" "Makefile" "pulse.el" "icons/" "cedet.el" "cedet-utests.el" "cedet-cscope.elc" "cedet-load.elc" "cedet-loaddefs.el~" "pprint.elc" "inversion.elc" "cedet-cscope.el" "cedet-java.el" "cedet-compat.el" "inversion.el" "ezimage.elc" "cedet-autogen.el" "cedet.elc" "autoloads-compile-script" "mode-local.elc" "./" "cedet-m3.elc" "cedet-idutils.el" "cedet-edebug.el" "cedet-loaddefs.el" "cedet-global.el" "cedet-android.el" "data-debug.elc" "pulse.elc" "cedet-files.elc" "cedet-android.elc" "data-debug.el" "cedet-edebug.elc" "cedet-load.el" ".cvsignore" "cedet-files.el" "mode-local.el" "cedet-autogen.elc" "ezimage.el" "cedet.texi" "cedet-idutils.elc" "cedet-graphviz.elc" "../" "init-compile-script" "setup-compile-script" "cedet-compat.elc" "working.el" "Project.ede" "tests-compile-script" "cedet-utests.elc" "cedet-graphviz.el" "pprint.el" "common-compile-script" "cedet.info")
+
+ ("/home/samiur/ie.hera-fw/core/app/control/mem/" (20610 12049) "serial_flash.cpp" "program_flash.cpp" "./" "../" "serial_flash.h" "program_flash.h")
+
+ ("/home/samiur/ie.hera-fw/core/app/drivers/spi/" (20599 16991) "memory_spi_driver.h" "memory_spi_driver.cpp" "./" "../")
+
+ ("/home/samiur/ie.hera-fw/core/app/control/serial/" (20610 12049) "serial_cobs_binary_handler.h" "serial_data_handler.h" "serial_ascii_handler.h" "./" "serial_ascii_handler.cpp" "serial_cobs_binary_handler.cpp" "../")
+
+ ("/home/samiur/hera_archive/core/app/control/cmd/" (20599 17093) "console_command_handler.cpp" "binary_command_handler.cpp" "./" "binary_command_handler.h" "command_opcode.h" "../" "console_command_handler.h")
+
+ ("/home/samiur/hera_archive/core/app/control/" (20599 17093) "settings_controller.h" "stack_controller.cpp" "cmd/" "valve_controller.h" "stack_controller.h" "serial/" "power_controller.h" "fan_controller.h" "led_controller.cpp" "mfi/" "USB_controller.h" "console_controller.cpp" "service_controller.h" "watchdog_controller.h" "cartridge_controller.cpp" "./" "button_controller.h" "memory_controller.h" "fan_controller.cpp" "service_controller.cpp" "e34_auth_controller.cpp" "valve_controller.cpp" "power_controller.cpp" "cartridge_controller.h" "watchdog_controller.cpp" "led_controller.h" "../" "settings_controller.cpp" "watchdog/" "eeprom/" "e34_auth_controller.h" "console_controller.h" "button_controller.cpp" "mem/" "memory_controller.cpp" "USB_controller.cpp" "flash_partitions/")
+
+ ("/home/samiur/hera_archive/core/app/" (20599 17093) "app.lds.S" "image.h" "Makefile" "print.h" "build/" "hera_string.h" "hera_string.cpp" "./" "main.cpp" "drivers/" "entry.c" "print.cpp" "board/" "Version" "control/" "../" "defined_strings.h")
+
+ ("/home/samiur/ie.hera-fw/core/" (20610 12049) "app/" "./" "../" "boot/" "images/")
+
+ ("/home/samiur/hera_archive/core/app/drivers/spi/" (20595 8859) "memory_spi_driver.h" "memory_spi_driver.cpp" "./" "../")
+
+ ("/home/samiur/ie.hera-fw/hal/" (20595 27043) "hal.h" "hal.cpp" "./" "repl-port" "../")
+
+ ("/home/samiur/hera_archive/core/app/drivers/adc/" (20595 8859) "adc_driver.h" "./" "../" "adc_driver.cpp")
+
+ ("/home/samiur/hera_archive/core/app/drivers/" (20595 8859) "dma/" "pwm/" "./" "spi/" "usb/" "uarts/" "timers/" "../" "i2c/" "adc/")
+
+ ("//" (20593 62044) "initrd.img.old" "lib/" "selinux/" "vmlinuz" "proc/" "sys/" "home/" "lib32/" "lib64/" "cdrom/" "initrd.img" "./" "mnt/" "etc/" "srv/" "run/" "var/" "bin/" "dev/" "tmp/" "usr/" "root/" "opt/" "../" "lost+found/" "sbin/" "boot/" "media/")
+
+ ("/home/samiur/hera_archive/core/" (20595 8859) "app/" "./" "../" "boot/")
+
+ ("/home/samiur/hera_archive/" (20595 8859) "algorithm/" ".git/" "core/" "hal/" "Makefile" "tools/" "build/" "./" "std/" "README" "config/" "Doxyfile" "scripts/" "documentation/" ".gitignore" "../" "test/" "archive/" "common/")
+
+ ("/home/samiur/clojure/my-website/src/my_website/views/" (20594 5149) "./" "common.clj" "../" "welcome.clj")
+
+ ("/home/samiur/clojure/my-website/src/my_website/" (20594 5149) "models/" "./" "server.clj" "../" "views/")
+
+ ("/home/samiur/clojure/my-website/src/" (20594 5149) "./" "my_website/" "../")
+
+ ("/home/samiur/clojure/my-website/" (20594 5149) "src/" "resources/" "./" "project.clj" "README.md" ".gitignore" "../" "test/")
+
+ ("/home/samiur/clojure/" (20594 5149) "./" "repl-port" "my-website/" "test.clj" "../" "testclj/")
+
+ ("/home/samiur/.lein/" (20594 5141) "./" "profiles.clj" "self-installs/" "../")
+
+ ("/home/samiur/.lein/self-installs/" (20591 58785) "./" "leiningen-2.0.0-preview10-standalone.jar" "../")
+
+ ("/home/" (20581 55488) "samiur/" "./" "../")
+
+ ("/home/samiur/ie.hera-fw/core/app/board/" (20587 35503) "hera_board.cpp" "exception_vectors.c" "io_defs.h" "./" "hera_board.h" "exception_vectors.h" "../")
+
+ ("/home/samiur/ie.hera-fw/std/" (20585 55120) "memcpy.h" "memset.h" "ssize_t.h" "strlen.h" "./" "memcpy.c" "strlen.c" "vsnprintf.h" "nulltype.h" "atoi.h" "vsnprintf.c" ".gitignore" "../" "memset.c" "atoi.c")
+
+ ("/home/samiur/ie.hera-fw/archive/generic/" (20585 55120) "device.cpp" "./" "device.h" "../")
+
+ ("/home/samiur/ie.hera-fw/archive/seq/" (20585 55120) "seq_interpreter.h" "compile/" "./" "seq_loader.cpp" "seq_loader.h" "../" "seq_program.h" "seq_interpreter.cpp")
+
+ ("/home/samiur/ie.hera-fw/archive/" (20585 55120) "config_board.h" "valve_controller.h" "HERA_Watchdog_seq.cpp" "pwm_portc_driver.h" "generic/" "console.h" "serial_controller.cpp" "hal.h" "mpiodrivers/" "HERA_LED_seq.h" "hal.cpp" "./" "MPIO/" "hera_demos.h" "LED.seq" "console.cpp" "hera_demos.cpp" "valve.seq" "valve_controller.cpp" "HERA_Watchdog_seq.h" "ff/" "serial_controller.h" "HERA_Valve_seq.h" "../" "watchdog.seq" "HERA_LED_seq.cpp" "seq/" "pwm_portc_driver.cpp" "HERA_Valve_seq.cpp" "USB/")
+
+ ("/home/samiur/ie.hera-fw/core/app/drivers/usb/" (20585 57050) "usb_host_driver.cpp" "usb_idevice_driver.cpp" "./" "usb_keyboard_driver.h" "usb_host_driver.h" "usb_keyboard_driver.cpp" "usb_idevice_driver.h" "../")
+
+ ("/home/samiur/ie.hera-fw/documentation/" (20586 9779) "html/" "./" "../")
+
+ ("/home/samiur/ie.hera-fw/core/app/build/" (20586 5400) "e34_auth_controller.o" "watchdog_controller.o" "cobs.o" "hera_fw_bare.bin.tmp" "atoi.o" "cortex-m3.o" "settings_controller.o" "hal.o" "cartridge_mem.o" "print.o" "hera_fw.elf_unstripped" "USB_controller.o" "adc_base.o" "counter_timer_base.o" "usb_idevice_driver.o" "stack_controller.o" "usb_host_driver.o" "usb_host_base.o" "pwm_timer_base.o" "servicer.o" "serial_ascii_handler.o" "i2c_MFi_bus.o" "buffered_transaction.o" "spi_driver.o" "service_controller.o" "exception_vectors.o" "main.o" "binary_command_handler.o" "valve_controller.o" "hera_fw.elf.objs.report" "dma_base.o" "eeprom_i2c_driver.o" "hera_fw.bin" "timer_base.o" "./" "performance_partition.o" "control_algorithm.o" "hera_board.o" "scheduling_timer.o" "pwm_portd_driver.o" "memset.o" "hera_fw_bare.bin" "usb_keyboard_driver.o" "button_controller.o" "strlen.o" "crc.o" "window_watchdog.o" "usb_class_hid.o" "hera_fw_full.bin" "usb_string.o" "debug_uart_driver.o" "serial_cobs_binary_handler.o" "console_command_handler.o" "i2c_mem_bus.o" "error_partition.o" "stm32f10x_GPIO.o" "led_controller.o" "i2c_bus_base.o" "entry.o" "hera_fw.elf" "pack.o" "cartridge_controller.o" "adc_driver.o" "dma_driver.o" "memory_controller.o" "pwm_porta_driver.o" "usb_otg.o" "../" "hera_fw.elf.report" "app.lds" "memcpy.o" "settings_partition.o" "cartridge_uart_driver.o" "serial_flash_controller.o" "uart_driver.o" "program_flash.o" "usb_device.o" "hera_fw.map" "power_controller.o" "flash_partition.o" "fan_controller.o" "protothreads.o" "memory_spi_driver.o" "vsnprintf.o" "mfi.o" "hton.o")
+
+ ("/home/samiur/scripts/" (20585 55120) "hera_build.sh" "./" "../")
 )
 
 ;; ----- ido-unc-hosts-cache -----
